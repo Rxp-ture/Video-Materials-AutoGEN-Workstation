@@ -43,6 +43,10 @@
 ## 接下来如何好好利用这个项目还是得靠自己。
 ### 因为主要还是偏向管理用的（简单来讲就是功能不会有你想象的那么实用），视频内容如何定义，如何打造爆款还是需要动脑子。当然本项目里面使用图像编辑模型的是NanoBanana，本地部署的AIStudio的反向代理的接口，用来生图然后给Sora也是不错的，起码测试下来比较稳定。
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Norsico/Video-Materials-AutoGEN-Workstation&type=date&legend=bottom-right)](https://www.star-history.com/#Norsico/Video-Materials-AutoGEN-Workstation&type=date&legend=bottom-right)
+
 ## 免责声明
 
 ### 项目仅共参考交流学习使用，不对任何使用者产生的问题负责
